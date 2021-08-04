@@ -19,20 +19,21 @@ During the last month of July, I have been working on a groupal project where we
 ### TypeScript
 
 ### FrontEnd:
-React
+React, 
 Redux
 
 ### BackEnd:
-NodeJs
-Express
-Sequelize
-PostgresSQL
+NodeJS, 
+Express, 
+Sequelize, 
+PostgresSQL, 
 JsonWebToken
 
 ### CSS:
-Bootstrap
+Bootstrap, 
 CSS Modules
 
+### Finally
 I want to be part of a company that gives me space for developing my primary capabilities and where I can find space for creative and out-of-the-box developing of the application infrastructure.
 
 If you want to contact me you send me a message through Linkedin or an email to diegolaraujo96@gmail.com
