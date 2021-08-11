@@ -33,6 +33,9 @@ JsonWebToken
 Bootstrap, 
 CSS Modules
 
+### Currently
+I am working on a project that aims to create an enviroment for solving logic theorems. The app is being made with TypeScript alone, and the development is strongly test driven. Personal motivations onto this are to join theoretical knowledgde of formal logic with tangible code. 
+
 ### Finally
 I want to be part of a company that gives me space for developing my primary capabilities and where I can find space for creative and out-of-the-box developing of the application infrastructure.
 
