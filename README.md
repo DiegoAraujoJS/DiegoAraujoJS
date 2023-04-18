@@ -4,9 +4,11 @@ I am a full stack developer passionate about creating solutions with an open num
 
 I am currently working every single day in building apps for my portfolio to show the world my development capabilities.
 
-My complete tech stack is Python | JavaScript | TypeScript | React JS | Redux | Node JS | Express | PostgreSQL | MySQL | Sequelize | HTML | CSS3
+My FrontEnd tech stack is HTML | CSS3 | TypeScript | React JS | Redux | Vue
 
-During the last month of July, I have been working on a groupal project where we created an application that manages your online courses. There, you can take as well as give an online course and synchronize the date of your course with your Google Calendar, and chat with the professor that will give you the course.
+My BackEnd tech stack is Node JS | Express | Go | Python | PostgreSQL | MySQL | Sequelize
+
+During my learning phase, I have been working on a groupal project where we created an application that manages your online courses. There, you can take as well as give an online course and synchronize the date of your course with your Google Calendar, and chat with the professor that will give you the course.
 <div display="flex">
   <img height="250" src="https://user-images.githubusercontent.com/77455764/128238408-29905b72-31cb-481a-aa88-b9daefb1d862.png" />
   <img height="250" src="https://user-images.githubusercontent.com/77455764/128238445-92808dd3-4fc0-4ab9-b9d9-cb10d3336b11.png" />
